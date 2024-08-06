@@ -3,7 +3,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   ```bash
+  
    git clone <your-repo-url>
    cd <your-repo-directory>
    
@@ -14,5 +14,6 @@ pip install -r requirements.txt
 4. Запустите бота
 python bot.py
 5. Использование
+
 Отправьте Excel файл с колонками title, url, xpath в чат с ботом.
 Бот ответит содержимым файла и сохранит данные в локальную базу данных.
