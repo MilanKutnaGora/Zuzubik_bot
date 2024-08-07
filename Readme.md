@@ -5,7 +5,7 @@
 1. Клонируйте репозиторий:
   
    git clone <https://github.com/MilanKutnaGora/Zuzubik_bot>
-   cd <your-repo-directory>
+   
    
 2. Установите зависимости
 `pip install -r requirements.txt`
